@@ -1,8 +1,6 @@
-## Silabear
+## Who is Silabear?
 
-You can use the [editor on GitHub](https://github.com/Silabear/silabear.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Silabear is a Minecraft creator. I make datapacks, skins, texture packs and more which are all free for everyone to use.
 
 ### Markdown
 
