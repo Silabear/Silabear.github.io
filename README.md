@@ -4,7 +4,7 @@ Silabear is a Minecraft creator. I make datapacks, skins, texture packs and more
 
 ## Datapacks
 - [Silabear's Lucky Blocks v1.2](https://www.planetminecraft.com/data-pack/silabear-s-lucky-blocks-datapack/) _requires resource pack_ 
-- [Better Item Dropping v1.1](https://www.planetminecraft.com/data-pack/better-item-dropping/)\n
+- [Better Item Dropping v1.1](https://www.planetminecraft.com/data-pack/better-item-dropping/)
 - [Brown Bears v1](https://www.planetminecraft.com/data-pack/grizzly-brown-bears-datapack-texture-pack-1-16/) _requires resource pack_
 - [Third Life v1](https://www.planetminecraft.com/data-pack/third-life-datapack/)
 - [Runes and spells v1](https://www.planetminecraft.com/data-pack/runes-and-spells/)
