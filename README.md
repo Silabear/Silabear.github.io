@@ -14,6 +14,6 @@ Silabear is a Minecraft creator. I make datapacks, skins, texture packs and more
 - [Minecraft Manhunt v1](https://www.planetminecraft.com/data-pack/minecraft-manhunt-4836792/)
 
 ### Discord Bots
-- **Discordcraft** _A simple bot which shows information about minecraft blocks, items and servers._ [[Invite Link]](https://discord.com/api/oauth2/authorize?client_id=806105359202254849&permissions=116800&scope=bot)
+- **Discordcraft** _A simple bot which shows information about minecraft blocks, items and servers._ [[Invite Link]](https://discord.com/api/oauth2/authorize?client_id=806105359202254849&permissions=116800&scope=bot) [[Source code]](https://github.com/Silabear/Discordcraft/)
 
 *All of my work is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1). An exception is always made for YouTube videos, which may be monetized as long as the video creator puts appropriate credit in the video description
