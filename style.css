@@ -1,3 +1,10 @@
-body {
-    background: linear-gradient(to bottom, #ff004c, #ff0000);
-  }
+  .banner-text h2 {
+	text-align: center;
+	color: #fff;
+	font-size: 50px;
+	margin-top: 20%;
+}
+
+.gradient-area {
+    background: linear-gradient(#ff004c, #ff0000);
+}
